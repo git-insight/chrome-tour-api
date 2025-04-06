@@ -1,4 +1,4 @@
-"""migration_message
+"""Initial models
 
 Revision ID: 83e4621c3178
 Revises: 
